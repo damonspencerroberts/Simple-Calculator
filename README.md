@@ -1,4 +1,4 @@
-#Very Simple Calculator
+# Very Simple Calculator
 
 I challenged myself to create a calculator in as little time as possible. This is very much just a simple
 calculator made with React. There is nothing special about it. This was mostly a personal challenge to see
